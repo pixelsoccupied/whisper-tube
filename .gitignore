@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# jetbrains
+.idea
+
+# generated files from code
+audio.mp4
+transcript*
